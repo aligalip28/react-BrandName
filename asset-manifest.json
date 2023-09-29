@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react-BrandName/static/css/main.a4f2cbb3.css",
+    "main.js": "/react-BrandName/static/js/main.cd3e3e4a.js",
+    "static/media/myportfolio1.png": "/react-BrandName/static/media/myportfolio1.d3a5c737c94cd7384d7c.png",
+    "static/media/about.png": "/react-BrandName/static/media/about.06f49fbce9cc224fbafb.png",
+    "static/media/aboutme.png": "/react-BrandName/static/media/aboutme.7f3ac2ff30002a3301f3.png",
+    "static/media/myportfolio4.png": "/react-BrandName/static/media/myportfolio4.5b96729b4388ab1c45ce.png",
+    "static/media/myportfolio2.png": "/react-BrandName/static/media/myportfolio2.0b59b4bc692d9f79a296.png",
+    "static/media/myportfolio3.png": "/react-BrandName/static/media/myportfolio3.c8cc0b7b4e73b4a3eeec.png",
+    "static/media/myportfolio5.png": "/react-BrandName/static/media/myportfolio5.07955f1863b902e3f0b3.png",
+    "index.html": "/react-BrandName/index.html",
+    "main.a4f2cbb3.css.map": "/react-BrandName/static/css/main.a4f2cbb3.css.map",
+    "main.cd3e3e4a.js.map": "/react-BrandName/static/js/main.cd3e3e4a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a4f2cbb3.css",
+    "static/js/main.cd3e3e4a.js"
+  ]
+}
